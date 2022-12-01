@@ -1,0 +1,23 @@
+.jumbotron {
+  background-color: #1a3d1a;
+}
+
+.navbar ul li {
+  float: left;
+  margin-left: 50px;
+  color: #1a3d1a;
+}
+
+div#kep {
+  display: inline-block;
+  margin: 10% 5% 10% 5%;
+}
+
+div#kep img {
+  width: 400px;
+  height: 300px;
+}
+
+.active {
+  color: red;
+}
